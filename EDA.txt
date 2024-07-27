@@ -1,0 +1,26 @@
+Dataset other then 
+1. Titanic 
+2. Iris
+3. Housing Prices
+4. Heart Disease 
+5. Wine Quality
+6. Pokemon
+7. Global Temperature 
+8. UCI Adult Income
+9. NYC Taxi Trips
+10. Mall Customers 
+11. Zomato Restaurants 
+12. Airbnb New York City
+13. UCI Machine Learning Respository's Mushroom Dataset
+14. Google Play Store Apps
+15. Seattle Traffic Collisions
+16. World Happiness Report
+17. FIFA World Cup Players
+18. US School Ratings
+19. Olympic Games
+20. Diabetes Dataset
+21. Amazon Fine Food Reviews
+22. Forest Cover Type
+23. Retail Sales Data
+24. MovieLens 100k
+25. COVID-19 Open Research Dataset (CORD-19)
